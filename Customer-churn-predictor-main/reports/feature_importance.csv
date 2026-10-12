@@ -1,0 +1,62 @@
+feature,importance
+num__ContractRiskScore,0.4316513909943292
+num__tenure,0.40979739288059613
+num__MonthlyCharges,0.2971268502900694
+cat__InternetService_Fiber optic,0.23413028944695227
+cat__TenureGroup_0-12 (New),0.2239116531393074
+cat__InternetService_DSL,0.22389232152092242
+cat__PaperlessBilling_No,0.19736801077098626
+cat__Contract_Two year,0.18056545241822267
+cat__MultipleLines_No,0.16569114799841406
+num__IsElectronicCheck,0.15214620874876736
+cat__Contract_Month-to-month,0.1494285192054463
+cat__TenureGroup_25-48 (Established),0.14797680698726426
+cat__PhoneService_Yes,0.13924148894772076
+cat__Dependents_Yes,0.13296494642604867
+num__HasOnlineSecurity,0.1252986500761938
+cat__TenureGroup_13-24 (Early),0.11916189753264939
+cat__OnlineBackup_No internet service,0.10766505986185494
+cat__OnlineSecurity_No internet service,0.10766505986185494
+cat__TechSupport_No internet service,0.10766505986185494
+cat__StreamingTV_No internet service,0.10766505986185494
+cat__InternetService_No,0.10766505986185494
+cat__StreamingMovies_No internet service,0.10766505986185494
+cat__DeviceProtection_No internet service,0.10766505986185494
+num__HasTechSupport,0.10068995355492681
+cat__CustomerValueSegment_Medium,0.10007109407082598
+cat__PaperlessBilling_Yes,0.09994091883515434
+cat__OnlineBackup_No,0.09734782627680484
+num__TotalCharges,0.09594220837867994
+cat__OnlineSecurity_No,0.0950473978224516
+cat__OnlineBackup_Yes,0.08710985835077509
+cat__OnlineSecurity_Yes,0.08480942989642445
+cat__TechSupport_No,0.08456716954518553
+cat__CustomerValueSegment_Low,0.08163569874063228
+cat__CustomerValueSegment_High,0.0789916966056289
+cat__MonthlyChargeCategory_Medium,0.07872328921229171
+cat__TechSupport_Yes,0.07432920161916459
+cat__StreamingMovies_Yes,0.07245623454079639
+num__SeniorCitizen,0.07020051203869934
+cat__Contract_One year,0.06629015872304539
+cat__StreamingTV_Yes,0.06482429058126017
+cat__StreamingMovies_No,0.062218266614770215
+cat__Partner_Yes,0.06078791814818815
+cat__PaymentMethod_Bank transfer (automatic),0.059494062068706347
+cat__MonthlyChargeCategory_Low,0.05942813283471233
+cat__gender_Female,0.05786620614784211
+cat__StreamingTV_No,0.05458632265523127
+cat__PaymentMethod_Credit card (automatic),0.05333703808400567
+cat__TenureGroup_61-72 (Veteran),0.05288760838837647
+cat__MultipleLines_No phone service,0.04181439701190459
+cat__PhoneService_No,0.04181439701190459
+cat__DeviceProtection_No,0.04147249990947047
+cat__MonthlyChargeCategory_High,0.04072433011117991
+cat__gender_Male,0.03956088578799345
+cat__PaymentMethod_Electronic check,0.03914506349161165
+cat__Partner_No,0.0366391737876473
+cat__Dependents_No,0.03553785449022527
+num__ServiceCount,0.03251917643974692
+cat__DeviceProtection_Yes,0.031234531983439517
+cat__MultipleLines_Yes,0.026449659050682094
+cat__PaymentMethod_Mailed check,0.023741055274730888
+cat__TenureGroup_49-60 (Loyal),0.001312432166838913

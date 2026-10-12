@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Large / generated data (keep raw + small processed files tracked;
+# uncomment below if scored_customers.csv or the sqlite db get large)
+# data/processed/scored_customers.csv
+# data/processed/churn.db
+
+# Model artifacts are intentionally tracked for this portfolio project
+# (models/churn_model.pkl) so the app runs out-of-the-box after clone.
